@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Live in NOW!!!
+title: Warm WELCOME to my site!!
 email: choodamani0099@gmail.com
 description: > # this means to ignore newlines until "baseurl:" 
  Do not worry about your future nither about your past.Life have given you a lots of things to live with it.Just live in the present, make your every moments memoriable , each seconds of your life is valuable to you.Live fully,laugh fully. There is no such thing as bad time, its the way to live your life. Enjoy each and every moments of your life.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bijay077.github.io" # the base hostname & protocol for your site
-twitter_username: facesmile_07
+twitter_username: facsmile077
 github_username:  bijay077
 
 # Build settings
